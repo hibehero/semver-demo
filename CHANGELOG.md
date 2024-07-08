@@ -1,3 +1,10 @@
+# [1.1.0](https://github.com/hibehero/semver-demo/compare/v1.0.0...v1.1.0) (2024-07-08)
+
+
+### Features
+
+* add文件 ([0c6d99f](https://github.com/hibehero/semver-demo/commit/0c6d99f448433cfc8beedfcbd35803bd287885af))
+
 # 1.0.0 (2024-07-08)
 
 
