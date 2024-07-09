@@ -1,7 +1,9 @@
 {
     "branches": [
-        "master", {
-            "name": "fix/*"
+        "master", 
+        {
+            "name": "fix/*",
+            "range": ">=0.0.0"
         }
     ],
     "repositoryUrl": "https://github.com/hibehero/semver-demo.git",
