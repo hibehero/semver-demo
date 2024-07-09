@@ -1,5 +1,5 @@
 {
-    "branches": "master",
+    "branches": ["master", "fix/*"],
     "repositoryUrl": "https://github.com/hibehero/semver-demo.git",
     "plugins": [
         "@semantic-release/commit-analyzer",
