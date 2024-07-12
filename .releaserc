@@ -1,11 +1,7 @@
 {
     "branches": [
         "master", 
-        {
-            "name": "fix/*",
-            "range": "1.x",
-            "prerelease": false
-        }
+        "fix/*"
     ],
     "plugins": [
         "@semantic-release/commit-analyzer",
