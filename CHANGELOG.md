@@ -1,3 +1,10 @@
+## [2.0.1](https://github.com/hibehero/semver-demo/compare/v2.0.0...v2.0.1) (2024-08-08)
+
+
+### Bug Fixes
+
+* fix something on the big feature ([4c0b64e](https://github.com/hibehero/semver-demo/commit/4c0b64efe947a1370729287bf58d77ca012f7f33))
+
 # [2.0.0](https://github.com/hibehero/semver-demo/compare/v1.6.0...v2.0.0) (2024-08-08)
 
 
