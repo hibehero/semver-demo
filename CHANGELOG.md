@@ -1,3 +1,10 @@
+# [1.6.0](https://github.com/hibehero/semver-demo/compare/v1.5.1...v1.6.0) (2024-08-08)
+
+
+### Features
+
+* a big feature \n\n BREAKING CHANGE: it breaks something ([4e0f0ca](https://github.com/hibehero/semver-demo/commit/4e0f0ca000397695dc382bc45f3a7ee814f64668))
+
 ## [1.5.1](https://github.com/hibehero/semver-demo/compare/v1.5.0...v1.5.1) (2024-08-08)
 
 
