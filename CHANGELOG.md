@@ -1,3 +1,11 @@
+# [2.1.0](https://github.com/hibehero/semver-demo/compare/v2.0.1...v2.1.0) (2024-08-08)
+
+
+### Features
+
+* a small feature ([1fe1b58](https://github.com/hibehero/semver-demo/commit/1fe1b58cd7f2c95d4e398fc23f543e0fd2e115c2))
+* a small feature ([317c1e6](https://github.com/hibehero/semver-demo/commit/317c1e694bcb46e5ff4b340823c4c1055353502c))
+
 ## [2.0.1](https://github.com/hibehero/semver-demo/compare/v2.0.0...v2.0.1) (2024-08-08)
 
 
