@@ -1,3 +1,25 @@
+# [1.3.0](https://github.com/hibehero/semver-demo/compare/v1.2.0...v1.3.0) (2024-08-08)
+
+
+### Bug Fixes
+
+* 修复1.0.0版本问题 ([5889e02](https://github.com/hibehero/semver-demo/commit/5889e02a6b68e1ed37ddc1d1a4b891d0968807db))
+* 修复1.0.0版本问题 ([0de688b](https://github.com/hibehero/semver-demo/commit/0de688b321e898f15fdd3a79247234cf24feab74))
+* 修复1.1.0版本的问题 ([510ffb8](https://github.com/hibehero/semver-demo/commit/510ffb855f1b926da75f88875d43358cfdea10bd))
+* 修复1.1.0版本问题 ([58c2cf9](https://github.com/hibehero/semver-demo/commit/58c2cf95b8889564b7b60ece9126e5d2f661368e))
+* 修复配置 ([683d1d6](https://github.com/hibehero/semver-demo/commit/683d1d621f3462beb86128c126d009ed7b726d2b))
+* 修复配置 ([8b65cea](https://github.com/hibehero/semver-demo/commit/8b65ceadd033126e4e428596723095ce721046ff))
+* 修复问题 ([02f2e0d](https://github.com/hibehero/semver-demo/commit/02f2e0dbf387478d26b3b65f0e29a1dea8854ce0))
+
+
+### Features
+
+* 修复问题12 ([aa7c5ab](https://github.com/hibehero/semver-demo/commit/aa7c5abc29d3fe321f1ee69f58822b0e8d741d08))
+* 修复问题12 ([5db77d3](https://github.com/hibehero/semver-demo/commit/5db77d3aee91fa1940311f55b4336cb443bf1ace))
+* 新增配置 ([d4ad75b](https://github.com/hibehero/semver-demo/commit/d4ad75bfe941bbf6c59bdef221af82a04514083a))
+* 新增配置 ([9dee927](https://github.com/hibehero/semver-demo/commit/9dee927bcc27482464d2ec242cdea4f8f175fb10))
+* 新增配置 ([02594a3](https://github.com/hibehero/semver-demo/commit/02594a34628b89f6d744568fa966e8ea1064853a))
+
 # [1.2.0](https://github.com/hibehero/semver-demo/compare/v1.1.0...v1.2.0) (2024-07-09)
 
 
