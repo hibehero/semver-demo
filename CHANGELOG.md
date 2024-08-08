@@ -1,3 +1,37 @@
+# [2.1.0](https://github.com/hibehero/semver-demo/compare/v2.0.1...v2.1.0) (2024-08-08)
+
+
+### Features
+
+* a small feature ([1fe1b58](https://github.com/hibehero/semver-demo/commit/1fe1b58cd7f2c95d4e398fc23f543e0fd2e115c2))
+* a small feature ([317c1e6](https://github.com/hibehero/semver-demo/commit/317c1e694bcb46e5ff4b340823c4c1055353502c))
+
+## [2.0.1](https://github.com/hibehero/semver-demo/compare/v2.0.0...v2.0.1) (2024-08-08)
+
+
+### Bug Fixes
+
+* fix something on the big feature ([4c0b64e](https://github.com/hibehero/semver-demo/commit/4c0b64efe947a1370729287bf58d77ca012f7f33))
+
+# [2.0.0](https://github.com/hibehero/semver-demo/compare/v1.6.0...v2.0.0) (2024-08-08)
+
+
+### Features
+
+* a big feature ([cb7d4c5](https://github.com/hibehero/semver-demo/commit/cb7d4c5e8f925395420b2d7ff46ce851ea1a53b0))
+
+
+### BREAKING CHANGES
+
+* it breaks something
+
+# [1.6.0](https://github.com/hibehero/semver-demo/compare/v1.5.1...v1.6.0) (2024-08-08)
+
+
+### Features
+
+* a big feature \n\n BREAKING CHANGE: it breaks something ([4e0f0ca](https://github.com/hibehero/semver-demo/commit/4e0f0ca000397695dc382bc45f3a7ee814f64668))
+
 ## [1.5.1](https://github.com/hibehero/semver-demo/compare/v1.5.0...v1.5.1) (2024-08-08)
 
 
