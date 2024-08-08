@@ -1,3 +1,11 @@
+# [1.5.0](https://github.com/hibehero/semver-demo/compare/v1.4.0...v1.5.0) (2024-08-08)
+
+
+### Features
+
+* 新增配置 ([41fd90f](https://github.com/hibehero/semver-demo/commit/41fd90fbaa6d8dc033cee973024446aca5f3fef3))
+* 新增配置 ([5fe32c7](https://github.com/hibehero/semver-demo/commit/5fe32c72d27d4eafe1c90168b44445e801ac6f13))
+
 # [1.4.0](https://github.com/hibehero/semver-demo/compare/v1.3.0...v1.4.0) (2024-08-08)
 
 
