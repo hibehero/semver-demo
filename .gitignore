@@ -12,6 +12,7 @@ yarn.lock
 # IDE
 .vscode/
 .idea/
+.history
 
 # Logs
 logs/
