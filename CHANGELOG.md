@@ -1,3 +1,10 @@
+# [1.4.0](https://github.com/hibehero/semver-demo/compare/v1.3.0...v1.4.0) (2024-08-08)
+
+
+### Features
+
+* 新增配置 ([fe50deb](https://github.com/hibehero/semver-demo/commit/fe50deb12fbe410772afb128ef20ae9923acdd94))
+
 # [1.3.0](https://github.com/hibehero/semver-demo/compare/v1.2.0...v1.3.0) (2024-08-08)
 
 
