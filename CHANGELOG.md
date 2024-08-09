@@ -1,3 +1,10 @@
+## [1.6.1](https://github.com/hibehero/semver-demo/compare/v1.6.0...v1.6.1) (2024-08-09)
+
+
+### Bug Fixes
+
+* a fix ([a37d963](https://github.com/hibehero/semver-demo/commit/a37d963fc3858192c9a4bd7f6d6e50b759b9a0fb))
+
 # [1.6.0](https://github.com/hibehero/semver-demo/compare/v1.5.1...v1.6.0) (2024-08-08)
 
 
