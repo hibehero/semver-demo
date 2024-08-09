@@ -1,3 +1,17 @@
+# [1.7.0](https://github.com/hibehero/semver-demo/compare/v1.6.0...v1.7.0) (2024-08-09)
+
+
+### Features
+
+* a feature ([8ce913a](https://github.com/hibehero/semver-demo/commit/8ce913a315ab85e4f6a503ae9aa84865e7a243b1))
+* a feature ([d353b77](https://github.com/hibehero/semver-demo/commit/d353b77f672d9964216dd949e7d34c3144486a3a))
+* a feature ([c49a8e6](https://github.com/hibehero/semver-demo/commit/c49a8e6914d765843b262e4c75fcfa851798de0a))
+* a feature ([692a9dc](https://github.com/hibehero/semver-demo/commit/692a9dcc95eb08a7df97e801579d446cc3f2d235))
+* a feature ([a634683](https://github.com/hibehero/semver-demo/commit/a6346831e97b4f84bab34e915d8463f5d89cc1b0))
+* a feature ([5930f92](https://github.com/hibehero/semver-demo/commit/5930f92f0328a3124f3ee61c9d0554ce4514fdb9))
+* a feature ([b56f4d4](https://github.com/hibehero/semver-demo/commit/b56f4d45079aae1bc161c8e1304c47e44703483d))
+* a feature ([431ef97](https://github.com/hibehero/semver-demo/commit/431ef97fa3a998a8ea932c20349432daa549b8b3))
+
 # [1.6.0](https://github.com/hibehero/semver-demo/compare/v1.5.1...v1.6.0) (2024-08-08)
 
 
