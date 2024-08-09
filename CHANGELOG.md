@@ -1,3 +1,10 @@
+## [1.7.2](https://github.com/hibehero/semver-demo/compare/v1.7.1...v1.7.2) (2024-08-09)
+
+
+### Bug Fixes
+
+* a fix ([a37d963](https://github.com/hibehero/semver-demo/commit/a37d963fc3858192c9a4bd7f6d6e50b759b9a0fb))
+
 ## [1.7.1](https://github.com/hibehero/semver-demo/compare/v1.7.0...v1.7.1) (2024-08-09)
 
 
