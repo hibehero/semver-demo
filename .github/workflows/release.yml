@@ -2,11 +2,14 @@ name: Release
 on:
     push:
         branches:
-            - master
-            - "+([0-9])?(.{+([0-9]),x}).x"
-            - "next"
-            - "beta"
-            - "alpha"
+          - master
+          - main
+          - next
+          - next-major
+          - beta
+          - alpha
+          - '[0-9]+(\.[0-9]+)?\.x'
+    workflow_dispatch:  # 手动触发配置
 permissions:
     packages: write
     contents: write
