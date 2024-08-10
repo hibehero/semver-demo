@@ -1,3 +1,10 @@
+# [2.3.0-alpha.1](https://github.com/hibehero/semver-demo/compare/v2.2.0...v2.3.0-alpha.1) (2024-08-10)
+
+
+### Features
+
+* 一个新功能 ([33f6868](https://github.com/hibehero/semver-demo/commit/33f68687d93c517559b654dfe49047ddb214c0ed))
+
 # [2.2.0](https://github.com/hibehero/semver-demo/compare/v2.1.0...v2.2.0) (2024-08-09)
 
 
